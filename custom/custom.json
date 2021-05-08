@@ -25,7 +25,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tcm-patio"
+                 "value":"avo-tcm-patio"
                 }],
          "type":"tilelayer",
          "visible":true,
