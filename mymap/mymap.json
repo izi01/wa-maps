@@ -25,7 +25,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"avo-tcm-patio"
+                 "value":"x78pd-patio"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -53,7 +53,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tcm-chillzone-2"
+                 "value":"x78pd-tcm-chillzone-2"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -93,7 +93,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tcm-chillzone-11"
+                 "value":"x78pd-tcm-chillzone-11"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -116,7 +116,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tcm-chillzone-cafe"
+                 "value":"x78pd-tcm-chillzone-cafe"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -139,7 +139,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tcm-formation"
+                 "value":"x78pd-tcm-formation"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -274,7 +274,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tcm-amphi"
+                 "value":"x78pd-tcm-amphi"
                 }],
          "type":"tilelayer",
          "visible":true,
